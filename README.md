@@ -63,8 +63,8 @@ Both tiers and specializations will require 'Tier Programming Projects', you are
 
 Math will be relevant throughout the guide. Begin it as you start the guide, and incrementally work through it alongside the guide. (You need not finish this before moving to tier 0, or tier 1, but be actively working on it alongside them.)
 
-| Courses                                                       | Status |                                                        Evidence                                                         |
-| :------------------------------------------------------------ | :----: | :---------------------------------------------------------------------------------------------------------------------: |
+| Courses                                                       | Status |                                                         Evidence                                                         |
+| :------------------------------------------------------------ | :----: | :----------------------------------------------------------------------------------------------------------------------: |
 | [Algebra I](https://www.khanacademy.org/math/algebra)         |   ✅    | ![](https://res.cloudinary.com/nguyen-thanhson/image/upload/v1560394859/Screen_Shot_2019-06-13_at_9.58.04_AM_ewphjb.png) |
 | [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |
@@ -164,7 +164,7 @@ Dive deeper into the Computer Science topics which will prove useful throughout 
 | [D3 Tips and Tricks v3.x](https://leanpub.com/D3-Tips-and-Tricks/read#leanpub-auto-acknowledgements)                                                                                                               |            |
 | **Practice**                                                                                                                                                                                                       | **Status** | **Evidence** |
 | Complete all Classic Puzzles - Medium on [CodinGame](https://www.codingame.com/)                                                                                                                                   |            |
-| Complete all ES6 Katas [here](http://es6katas.org/)                                                                                                                                                                |            |
+| Complete all ES6 Katas [here](http://es6katas.org/)                                                                                                                                                                |     ✅      |
 | Complete [Google Kick Start 2017](https://codingcompetitions.withgoogle.com/kickstart/archive/2017)                                                                                                                |            |
 | Complete [Google Code Jam 2018](https://codingcompetitions.withgoogle.com/codejam/archive/2018)                                                                                                                    |            |
 | Complete [FaceBook Hacker Cup 2017](https://www.facebook.com/hackercup/past_rounds/)                                                                                                                               |            |
